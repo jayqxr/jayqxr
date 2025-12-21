@@ -1,10 +1,7 @@
-## Hi there 👋
-# On-Chain Data Analysis
+## Hi there, I'm Jay 👋
 
 ## Overview
 This repository contains on-chain analytics work focused on decoding blockchain data and transforming raw events into structured, decision-ready metrics.
-
-The work emphasizes clarity, reproducibility, and analytical rigor rather than surface-level dashboards.
 
 ---
 
@@ -24,51 +21,15 @@ The work emphasizes clarity, reproducibility, and analytical rigor rather than s
 ---
 
 ## Tech Stack
-
-### Core
-- SQL (Trino / Dune SQL)
-- Dune Analytics
-
-### Blockchain
-- Ethereum
-- Solana
-
-### Analysis & Visualization
-- Excel
-- Tableau
-- Power BI
-
----
-
-## Methodology
-- Decode raw blockchain events into structured tables
-- Normalize and aggregate data across time windows
-- Validate metrics through cross-checks and edge-case handling
-- Design queries to be reusable and extensible
-
----
-
-## Repository Structure
-.
-├── sql/
-│   ├── event_decoding.sql
-│   ├── aggregations.sql
-│   └── analysis_queries.sql
-├── dashboards/
-│   └── dune_links.md
-├── notes/
-│   └── methodology.md
-└── README.md
-
----
+### Core: SQL (Trino / Dune SQL), Dune Analytics
+### Blockchain: Ethereum, Solana
+### Analysis & Visualization: Excel, Tableau, Power BI
 
 ## Key Wins
-
 ✅ Built multi-pool on-chain analytics from raw event data  
 ✅ Designed reusable SQL models for blockchain analysis  
 ✅ Published public dashboards backed by documented queries  
 
----
 
 ## Notes
 This repository is part of an ongoing learning and research process.  
