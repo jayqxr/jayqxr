@@ -1,16 +1,76 @@
 ## Hi there 👋
+# On-Chain Data Analysis
 
-<!--
-**jayqxr/jayqxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This repository contains on-chain analytics work focused on decoding blockchain data and transforming raw events into structured, decision-ready metrics.
 
-Here are some ideas to get you started:
+The work emphasizes clarity, reproducibility, and analytical rigor rather than surface-level dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+### On-Chain Analytics
+- Event decoding and transaction-level analysis
+- Token flow and volume tracking
+- Pool-level and market-level aggregation
+- Time-series analysis across multiple markets
+
+### Data Analysis & Reporting
+- Exploratory analysis using SQL
+- Export-ready datasets for Excel and Power BI
+- Metrics designed for operational and research use
+
+---
+
+## Tech Stack
+
+### Core
+- SQL (Trino / Dune SQL)
+- Dune Analytics
+
+### Blockchain
+- Ethereum
+- Solana
+
+### Analysis & Visualization
+- Excel
+- Tableau
+- Power BI
+
+---
+
+## Methodology
+- Decode raw blockchain events into structured tables
+- Normalize and aggregate data across time windows
+- Validate metrics through cross-checks and edge-case handling
+- Design queries to be reusable and extensible
+
+---
+
+## Repository Structure
+.
+├── sql/
+│   ├── event_decoding.sql
+│   ├── aggregations.sql
+│   └── analysis_queries.sql
+├── dashboards/
+│   └── dune_links.md
+├── notes/
+│   └── methodology.md
+└── README.md
+
+---
+
+## Key Wins
+
+✅ Built multi-pool on-chain analytics from raw event data  
+✅ Designed reusable SQL models for blockchain analysis  
+✅ Published public dashboards backed by documented queries  
+
+---
+
+## Notes
+This repository is part of an ongoing learning and research process.  
+The structure is intentionally simple to allow future expansion into cross-DEX analysis, additional chains, and programmatic data pipelines.
+
