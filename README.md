@@ -7,20 +7,22 @@ I analyze on-chain blockchain data and build analytics pipelines that transform 
 #### What I Build
 
 ##### On-Chain Analytics
-- Event decoding and transaction-level analysis
-- Token flow and volume tracking
-- Pool-level and market-level aggregation
-- Time-series analysis across multiple markets
+- Decode blockchain events and analyze transactions at scale
+- Track token flow, volume, and liquidity
+- Aggregate data at pool and market levels
+- Perform time-series analysis across multiple markets
+- Detect trends and anomalies in on-chain activity
 
-##### Data Analysis & Reporting
-- Exploratory analysis using SQL
-- Export-ready datasets for Excel and Power BI
+##### Data Analysis, Reporting & Visualizations
+- Exploratory analysis using SQL & Python
+- Export-ready datasets for Excel, Power BI and Python
 - Metrics designed for operational and research use
+- Define and standardize metrics for Web3 insights
 
 ##### Tech Stack
 ##### Core:  SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics
 ##### Blockchain:  Ethereum, Solana, Arbitrum
-##### Analysis & Visualization:  Excel, Tableau, Power BI
+##### Analysis & Visualization:  Excel, Tableau, Power BI, Python
 
 ##### Key Wins
 ✅ Built multi-pool on-chain analytics from raw event data  
