@@ -20,12 +20,12 @@ I analyze on-chain blockchain data and build analytics pipelines that transform 
 - Metrics designed for operational and research use
 - Define and standardize metrics for Web3 insights
 
-##### Tech Stack
+#### Tech Stack
 ##### Core:  SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics
 ##### Blockchain:  Ethereum, Solana, Arbitrum
 ##### Analysis & Visualization:  Excel, Tableau, Power BI, Python
 
-##### Key Wins
+#### Key Wins
 ✅ Built multi-pool on-chain analytics from raw event data  
 ✅ Designed reusable SQL models for blockchain analysis  
 ✅ Published public dashboards backed by documented queries  
