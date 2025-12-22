@@ -22,7 +22,6 @@ I analyze on-chain blockchain data and build analytics pipelines that transform 
 
 #### Tech Stack
 ##### Core:  SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics
-##### Blockchain:  Ethereum, Solana, Arbitrum
 ##### Analysis & Visualization:  Excel, Tableau, Power BI, Python
 
 #### Key Wins
