@@ -15,6 +15,7 @@ I analyze on-chain blockchain data and build analytics pipelines that transform 
 
 ##### Data Analysis, Reporting & Visualizations
 - Exploratory analysis using SQL & Python
+- Build interactive dashboards and visualizations (Power BI / Excel / Python)
 - Export-ready datasets for Excel, Power BI and Python
 - Metrics designed for operational and research use
 - Define and standardize metrics for Web3 insights
