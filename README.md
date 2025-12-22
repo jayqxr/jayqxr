@@ -17,7 +17,7 @@ This repository contains on-chain analytics work focused on decoding blockchain 
 - Metrics designed for operational and research use
 
 ##### Tech Stack
-##### Core:  SQL (Trino / Dune SQL), Dune Analytics
+##### Core:  SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics
 ##### Blockchain:  Ethereum, Solana, Arbitrum
 ##### Analysis & Visualization:  Excel, Tableau, Power BI
 
