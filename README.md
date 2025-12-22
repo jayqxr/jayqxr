@@ -3,6 +3,7 @@
 #### Overview
 This repository contains on-chain analytics work focused on decoding blockchain data and transforming raw events into structured, decision-ready metrics.
 
+📄[My CV](https://docs.google.com/document/d/1_wEP0sOy9rUwU4rYFl733-8idienXxCgcKoGQ5iQ7Vk/edit?usp=sharing)
 #### What I Build
 
 ##### On-Chain Analytics
