@@ -1,7 +1,7 @@
 #### Hi there, I'm Jay 👋
 ---
 #### Overview
-This repository contains on-chain analytics work focused on decoding blockchain data and transforming raw events into structured, decision-ready metrics.
+I analyze on-chain blockchain data and build analytics pipelines that transform raw events into structured, decision-ready metrics for Web3 insights.
 
 📄[My CV](https://docs.google.com/document/d/1_wEP0sOy9rUwU4rYFl733-8idienXxCgcKoGQ5iQ7Vk/edit?usp=sharing)
 #### What I Build
