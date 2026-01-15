@@ -3,8 +3,6 @@
 #### Overview
 I analyze on-chain data and build analytics pipelines that turn raw blockchain events into decision-ready metrics for Web3 markets.
 
-Selected work includes Uniswap v3 multi-pool market structure analysis and ERC20/WETH swap execution modeling.
-
 📄 [My CV](https://docs.google.com/document/d/1_wEP0sOy9rUwU4rYFl733-8idienXxCgcKoGQ5iQ7Vk/edit?usp=sharing)
 
 #### What I Build
@@ -25,6 +23,7 @@ Selected work includes Uniswap v3 multi-pool market structure analysis and ERC20
 
 #### Tech Stack
 **Core:** SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics, Python 
+
 **Analysis & Visualization:** Excel, Tableau, Power BI, Python
 
 ---
