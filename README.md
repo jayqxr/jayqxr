@@ -24,7 +24,7 @@ Selected work includes Uniswap v3 multi-pool market structure analysis and ERC20
 - Define and standardize metrics for Web3 insights
 
 #### Tech Stack
-**Core:** SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics  
+**Core:** SQL (Trino, PostgreSQL, MSSQL, Snowflake), Dune Analytics, Python 
 **Analysis & Visualization:** Excel, Tableau, Power BI, Python
 
 ---
